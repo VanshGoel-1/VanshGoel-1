@@ -59,7 +59,7 @@ Flask-based YouTube audio mashup tool with a tested, modular architecture.
 
 ### 🏆 Achievements
 
-- 🥇 **Meta PyTorch OpenEnv Hackathon** Finalist — Top 800 / 31,000 teams
+- 🥇 **Meta PyTorch OpenEnv Hackathon** Finalist — Top 800 / 51,000 teams
 - 💰 Raised **₹1L pre-seed** for MDD with no equity dilution
 - 🎓 **CS50P** — Harvard's Introduction to Programming with Python (Final Project)
 - 🧠 **Outskill Agentic AI Mastermind** Certified
